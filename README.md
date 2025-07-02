@@ -8,5 +8,5 @@ This is my proyect with Node.js
 mkdir library-api
 cd library-api
 npm init -y
-npm install express mysql2 dotenv
+npm install express 
 ```
